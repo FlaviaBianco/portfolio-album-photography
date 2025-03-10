@@ -6,6 +6,9 @@ export default function Album() {
         <div>
             <h1 className="text-center mb-3">My hobby</h1>
             <h3 className="text-center mt-4"><q>Album photography</q></h3>
+            <Link to='/portfolio-album-photography' className="position-end position-absolute top-0 end-0 me-5">
+                <button className="btn btn-outline-light mt-5 mb-2">Voltar</button>
+            </Link>
             <section className="main">
                 {PHOTOS.map((photo, index) => (
                     <ParallaxCard 
