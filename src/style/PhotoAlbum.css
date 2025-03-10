@@ -1,0 +1,13 @@
+.iniciosite{
+    position:absolute;
+    top: 24%;
+    left: 35%;
+    text-align: center;
+     
+}
+
+.album-image{
+    height: auto;
+    max-height: 550px;
+    object-fit: cover;
+}
