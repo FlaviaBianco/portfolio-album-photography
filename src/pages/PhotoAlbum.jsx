@@ -60,7 +60,7 @@ function App() {
         </Link>
         </div>
           {/* Link to portfolio */}
-          <a href="https://www.instagram.com/flavinha_bianco?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" className="link-to-instagram"></a>
+          <a href="https://www.instagram.com/flavinha_bianco?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" className="link-to-instagram" target="_blank"></a>
         </div>
 
       );
