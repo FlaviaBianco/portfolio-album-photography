@@ -1,5 +1,6 @@
 import { PHOTOS } from "../data/photos";
 import ParallaxCard from "../componentes/ParallaxCard";
+import { Link } from "react-router-dom";
 
 export default function Album() {
     return (
